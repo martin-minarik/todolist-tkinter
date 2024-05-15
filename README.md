@@ -9,7 +9,7 @@ to add, remove, and keep track of their to-do items. The application provides a 
 management. Additionally, data are managed remotely via a Flask REST API in an SQLite database, ensuring seamless and
 efficient task synchronization and storage.
 
-![](.\images\main_window.png)
+![](./images/main_window.png)
 
 ## Dependencies
 
@@ -48,12 +48,12 @@ $ source venv/todo_app/bin/activate # activate virtual environment
 
 - edit record form
 
-![](.\images\edit_record.png)
+![](./images/edit_record.png)
 
 - new record form
 
-![](.\images\new_record.png)
+![](./images/new_record.png)
 
 - sort options
 
-![](.\images\sort_drop_menu.png)
+![](./images/sort_drop_menu.png)
